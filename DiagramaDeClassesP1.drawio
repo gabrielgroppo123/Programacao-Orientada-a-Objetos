@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="Página-1" id="MteHSqF2_VSy1rzK8Pcn">
-    <mxGraphModel dx="691" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2828" dy="1554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,6 +140,9 @@
         </mxCell>
         <mxCell id="7sH9K5OC9G3RJHEaIXkX-6" parent="7sH9K5OC9G3RJHEaIXkX-5" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
           <mxGeometry height="60" width="160" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dEIUhKucdx02ajn1SHmX-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gabriel Groppo&lt;br&gt;&lt;br&gt;Guilherme Alves de Souza" vertex="1">
+          <mxGeometry height="80" width="160" x="620" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
